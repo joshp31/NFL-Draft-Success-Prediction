@@ -56,18 +56,19 @@ File Structure
 NFL-EDGE-Draft-Success-Prediction/
 │
 ├── data/
-│   ├── raw/                        # Raw datasets before processing
-│   ├── clean/                      # Final processed datasets
+│ ├── raw/ # Raw datasets before processing
+│ ├── clean/ # Final processed datasets
 │
-├── model_results/                  # Model outputs, evaluation results, and plots
-│   ├── predictions                 # Final predictions from best model (2026 EDGE class)
-│   ├── pred_vs_actual_nn
-├── src/                            # Source code for all modeling and data processing
-│   ├── data_processing             # Scripts to clean and transform raw data
-│   ├── 2026_edge_data_processing
-│   ├── single_predictor_linear_regression
-│   ├── actual_vs_predicted_final_nn
-│   ├── predictions                 # Code used to generate final predictions and figures
+├── model_results/ # Model outputs, evaluation results, and plots
+│ ├── predictions  # Final predictions from best model (2026 EDGE class)
+│ ├── pred_vs_actual_nn
+│
+├── src/ # Source code for all modeling and data processing
+│ ├── data_processing  # Scripts to clean and transform raw data
+│ ├── 2026_edge_data_processing
+│ ├── single_predictor_linear_regression
+│ ├── actual_vs_predicted_final_nn
+│ ├── predictions  # Code used to generate final predictions and figures
 │
 ├── .gitignore
 ├── README.md
