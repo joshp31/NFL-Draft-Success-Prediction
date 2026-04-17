@@ -1,0 +1,32 @@
+Lasso Regression with 10-Fold CV (Log-Transformed Response)
+======================================================================
+Selected alpha: 0.047990
+
+R2 Mean: 0.1173
+R2 Std: 0.2156
+RMSE Mean: 1.0979
+RMSE Std: 0.1164
+
+Coefficients:
+         Feature  Coefficient
+            40yd    -0.403487
+              Wt     0.338539
+tackles_for_loss     0.277519
+         tackles     0.089642
+       hand_size     0.058309
+ Broad Jump_done     0.036619
+              Ht     0.033943
+           3Cone    -0.032282
+      3Cone_done     0.028294
+         Shuttle    -0.024426
+    games_played    -0.011210
+        Vertical     0.000000
+       40yd_done    -0.000000
+   Vertical_done     0.000000
+           Bench    -0.000000
+      Bench_done     0.000000
+      Broad Jump     0.000000
+    Shuttle_done     0.000000
+           sacks     0.000000
+  forced_fumbles     0.000000
+      arm_length     0.000000

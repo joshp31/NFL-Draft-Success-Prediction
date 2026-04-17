@@ -1,0 +1,26 @@
+Lasso Regression (Interactions) - 10-Fold CV
+======================================================================
+Selected alpha: 0.135396
+
+R2 Mean: 0.1437
+R2 Std: 0.2699
+RMSE Mean: 12.5810
+RMSE Std: 1.6523
+
+Final Model Metrics (Full Data):
+R2: 0.3199
+RMSE: 12.1364
+
+Coefficients:
+         Feature  Coefficient
+    speed_weight     7.321305
+      length_tfl     3.998498
+              Wt    -3.527245
+         agility     2.296900
+  length_tackles     2.137798
+       explosion     0.887341
+              Ht     0.564197
+strength_control     0.137021
+      arm_length     0.051359
+           power     0.000000
+      production     0.000000

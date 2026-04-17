@@ -1,0 +1,14 @@
+Neural Network (MLP Regressor)
+======================================================================
+Hidden Layers: (10, 5)
+
+Regularization Strength (Alpha): 0.001
+
+10-Fold CV Results:
+R^2 Mean: 0.1782, R^2 Std: 0.2697
+RMSE Mean: 12.2456, RMSE Std: 1.6021
+
+Final Model Metrics (full data):
+R^2: 0.5131
+Adjusted R^2: 0.5005
+RMSE: 10.2691

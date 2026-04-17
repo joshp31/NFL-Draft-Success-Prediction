@@ -1,0 +1,28 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     5year_approx_value   R-squared:                       0.076
+Model:                            OLS   Adj. R-squared:                  0.070
+Method:                 Least Squares   F-statistic:                     11.45
+Date:                Fri, 27 Mar 2026   Prob (F-statistic):           1.66e-05
+Time:                        15:42:59   Log-Likelihood:                -1139.1
+No. Observations:                 280   AIC:                             2284.
+Df Residuals:                     277   BIC:                             2295.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+const             -55.0526     17.175     -3.205      0.002     -88.863     -21.242
+Broad Jump          0.5445      0.145      3.750      0.000       0.259       0.830
+Broad Jump_done     6.5974      2.219      2.973      0.003       2.230      10.965
+==============================================================================
+Omnibus:                       67.733   Durbin-Watson:                   1.988
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              134.907
+Skew:                           1.235   Prob(JB):                     5.07e-30
+Kurtosis:                       5.338   Cond. No.                     2.38e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.38e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

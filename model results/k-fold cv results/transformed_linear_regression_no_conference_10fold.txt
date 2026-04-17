@@ -1,0 +1,6 @@
+10-Fold Cross-Validation Results - No Conference
+==================================================
+R2 Mean: 0.0497
+R2 Std: 0.2432
+RMSE Mean: 1.1387
+RMSE Std: 0.1306

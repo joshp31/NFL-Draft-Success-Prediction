@@ -1,0 +1,6 @@
+10-Fold Cross-Validation Results
+==================================================
+R2 Mean: 0.0423
+R2 Std: 0.2382
+RMSE Mean: 1.1433
+RMSE Std: 0.1268

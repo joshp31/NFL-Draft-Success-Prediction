@@ -1,0 +1,40 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     5year_approx_value   R-squared:                       0.260
+Model:                            OLS   Adj. R-squared:                  0.249
+Method:                 Least Squares   F-statistic:                     24.14
+Date:                Fri, 27 Mar 2026   Prob (F-statistic):           3.92e-17
+Time:                        13:42:24   Log-Likelihood:                -411.66
+No. Observations:                 280   AIC:                             833.3
+Df Residuals:                     275   BIC:                             851.5
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const                8.8686      2.524      3.514      0.001       3.900      13.838
+Wt                   0.0303      0.005      5.721      0.000       0.020       0.041
+40yd                -3.7230      0.526     -7.075      0.000      -4.759      -2.687
+tackles_for_loss     1.4736      0.230      6.396      0.000       1.020       1.927
+hand_size            0.1877      0.130      1.443      0.150      -0.068       0.444
+==============================================================================
+Omnibus:                        8.024   Durbin-Watson:                   1.958
+Prob(Omnibus):                  0.018   Jarque-Bera (JB):                7.284
+Skew:                          -0.332   Prob(JB):                       0.0262
+Kurtosis:                       2.572   Cond. No.                     1.07e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.07e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+================================================================================
+VIF (Variance Inflation Factors)
+================================================================================
+
+         feature        VIF
+              Wt 485.892566
+            40yd 644.382115
+tackles_for_loss   9.064370
+       hand_size 319.582262

@@ -1,0 +1,32 @@
+Ridge Regression with 10-Fold CV (Log-Transformed Response)
+======================================================================
+Selected alpha: 95.000000
+
+R2 Mean: 0.0869
+R2 Std: 0.2255
+RMSE Mean: 1.1156
+RMSE Std: 0.1093
+
+Coefficients:
+         Feature  Coefficient
+            40yd    -0.264663
+              Wt     0.258064
+tackles_for_loss     0.155755
+         tackles     0.115294
+       hand_size     0.075803
+           sacks     0.059927
+           3Cone    -0.057672
+         Shuttle    -0.050975
+              Ht     0.050265
+    games_played    -0.045552
+      arm_length     0.040712
+      3Cone_done     0.040311
+ Broad Jump_done     0.039630
+    Shuttle_done     0.031580
+  forced_fumbles     0.030875
+      Broad Jump     0.029147
+        Vertical     0.021791
+       40yd_done    -0.021113
+           Bench     0.019477
+   Vertical_done     0.018544
+      Bench_done     0.009968

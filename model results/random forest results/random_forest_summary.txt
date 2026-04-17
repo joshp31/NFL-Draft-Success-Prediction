@@ -1,0 +1,28 @@
+Random Forest Model - Log-Transformed 5-Year AV
+============================================================
+R^2: 0.4946
+Adjusted R^2: 0.4535
+
+Feature Importances:
+         Feature  Importance
+            40yd    0.169424
+tackles_for_loss    0.163415
+              Wt    0.114806
+         tackles    0.091534
+       hand_size    0.068895
+           sacks    0.058552
+         Shuttle    0.054151
+           3Cone    0.051704
+  forced_fumbles    0.039871
+        Vertical    0.039240
+      arm_length    0.033912
+    games_played    0.032740
+      Broad Jump    0.026480
+           Bench    0.018687
+              Ht    0.015525
+    Shuttle_done    0.005426
+      3Cone_done    0.004814
+      Bench_done    0.004608
+   Vertical_done    0.003385
+ Broad Jump_done    0.002222
+       40yd_done    0.000610

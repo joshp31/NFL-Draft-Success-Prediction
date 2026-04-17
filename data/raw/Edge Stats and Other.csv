@@ -1,0 +1,281 @@
+player_id,Player,School,conference,games_played,tackles,tackles_for_loss,sacks,forced_fumbles,arm_length,hand_size,5year_approx_value
+11,Cliff Avril,Purdue,Power 5,37,157.0,32.5,12.5,5,34.625,9.75,28.0
+24,Kroy Biermann,Montana,FCS,52,220.0,45.0,32.0,9,31.5,9.75,18.0
+54,Calais Campbell,Miami (FL),Power 5,36,129.0,39.0,19.5,5,35.75,9.5,32.0
+72,Angelo Craig,Cincinnati,Power 5,34,78.0,17.0,7.0,0,33.375,9.5,0.0
+92,Chris Ellis,Virginia Tech,Power 5,39,132.0,28.0,19.0,5,32.75,9.5,2.0
+111,Vernon Gholston,Ohio State,Power 5,31,87.0,30.5,22.5,0,34.0,10.0,6.0
+132,Chris Harrington,Texas A&M,Power 5,37,142.0,26.5,13.5,4,33.5,9.625,0.0
+135,Derrick Harvey,Florida,Power 5,36,90.0,31.5,20.5,2,33.5,10.25,15.0
+151,Marcus Howard,Georgia,Power 5,39,76.0,14.5,12.5,4,32.5,9.5,1.0
+155,Kenny Iwebema,Iowa,Power 5,41,103.0,20.0,13.5,3,33.25,9.0,2.0
+159,Lawrence Jackson,USC,Power 5,52,148.0,40.5,24.5,7,33.5,9.625,16.0
+170,Jason Jones,East. Michigan,Group of 5,45,174.0,50.0,14.0,3,36.375,9.375,18.0
+181,Kendall Langford,Hampton,FCS,47,236.0,56.5,23.5,9,33.875,8.375,32.0
+190,Chris Long,Virginia,Power 5,37,182.0,36.5,20.0,3,32.75,10.25,33.0
+209,Phillip Merling,Clemson,Power 5,38,111.0,26.0,11.5,5,33.5,10.25,6.0
+281,Bryan Smith,McNeese State,FCS,44,143.0,40.5,28.0,6,33.25,9.75,1.0
+304,Jeremy Thompson,Wake Forest,Power 5,46,96.0,17.5,7.5,3,35.375,10.0,1.0
+335,Robert Ayers,Tennessee,Power 5,48,113.0,31.5,9.0,0,33.0,10.0,16.0
+339,Connor Barwin,Cincinnati,Power 5,14,49.0,14.5,11.0,0,33.75,10.0,26.0
+364,Everette Brown,Florida State,Power 5,39,99.0,46.5,23.0,5,33.0,10.25,6.0
+404,Will Davis,Illinois,Power 5,37,95.0,23.0,15.0,3,32.625,9.25,3.0
+437,Jarron Gilbert,San Jose State,Group of 5,47,145.0,42.0,21.5,3,34.25,10.25,0.0
+473,Tyson Jackson,LSU,Power 5,53,121.0,26.5,17.0,2,36.75,10.75,26.0
+488,Michael Johnson,Georgia Tech,Power 5,50,107.0,30.5,19.0,10,34.375,10.25,31.0
+498,Paul Kruger,Utah,Power 5,26,124.0,24.0,10.5,3,32.75,9.5,15.0
+521,Clay Matthews,USC,Power 5,47,97.0,13.5,5.5,4,32.25,9.5,50.0
+524,Aaron Maybin,Penn State,Power 5,26,61.0,24.5,16.0,4,35.25,10.125,5.0
+544,Kyle Moore,USC,Power 5,49,76.0,13.0,7.0,1,33.25,9.75,8.0
+562,Brian Orakpo,Texas,Power 5,47,103.0,34.5,23.0,6,33.5,9.5,36.0
+598,Matt Shaughnessy,Wisconsin,Power 5,51,163.0,30.5,13.5,4,35.625,10.75,21.0
+601,Lawrence Sidbury,Richmond,FCS,45,123.0,29.5,25.5,7,35.625,10.75,5.0
+614,Stryker Sulak,Missouri,Power 5,52,183.0,35.5,21.5,13,32.25,9.5,0.0
+633,David Veikune,Hawaii,Group of 5,41,117.0,28.0,18.0,4,33.25,10.375,1.0
+646,Brandon Williams,Texas Tech,Power 5,39,85.0,30.5,22.0,7,32.5,8.625,0.0
+657,Jarius Wynn,Georgia,Power 5,26,33.0,5.0,4.0,0,33.25,9.25,7.0
+708,Alex Carrington,Arkansas State,Group of 5,48,129.0,28.5,15.5,5,33.25,10.5,7.0
+730,Jermaine Cunningham,Florida,Power 5,45,151.0,33.0,18.5,5,33.75,10.375,8.0
+734,Hall Davis,Louisiana-Lafayette,Group of 5,47,59.0,10.5,6.0,2,33.75,10.25,0.0
+746,Carlos Dunlap,Florida,Power 5,39,84.0,26.0,19.5,2,34.625,10.0,28.0
+757,Clifton Geathers,South Carolina,Power 5,34,72.0,12.0,6.0,3,37.75,11.125,1.0
+765,Brandon Graham,Michigan,Power 5,46,138.0,56.0,29.5,8,32.25,9.875,10.0
+772,Everson Griffen,USC,Power 5,36,84.0,21.0,18.0,3,32.625,10.0,18.0
+779,Greg Hardy,Mississippi,Power 5,40,147.0,39.5,26.5,7,34.0,9.75,29.0
+788,Jerry Hughes,TCU,Power 5,49,142.0,40.5,28.5,8,33.0,9.75,19.0
+811,Jammie Kirlew,Indiana,Power 5,48,220.0,52.5,23.0,9,33.25,9.625,0.0
+827,Erik Lorig,Stanford,Power 5,41,95.0,17.0,6.0,2,32.5,10.125,2.0
+858,Derrick Morgan,Georgia Tech,Power 5,39,115.0,29.5,19.5,2,34.5,9.75,24.0
+881,Jason Pierre-Paul,South Florida,Power 5,13,45.0,16.5,6.5,2,34.75,10.375,40.0
+907,George Selvie,South Florida,Power 5,51,206.0,69.0,28.5,8,34.5,9.375,5.0
+928,Daniel Te'o-Nesheim,Washington,Power 5,49,194.0,46.0,29.0,8,33.75,10.5,12.0
+941,Adrian Tracy,William & Mary,FCS,46,161.0,32.5,23.5,9,33.5,9.5,1.0
+970,C.J. Wilson,East Carolina,Group of 5,54,192.0,45.5,27.0,4,33.125,10.0,12.0
+971,E.J. Wilson,North Carolina,Power 5,50,150.0,29.0,12.0,6,32.75,10.0,0.0
+978,Corey Wootton,Northwestern,Power 5,53,156.0,38.0,19.5,3,34.75,10.25,0.0
+979,Jason Worilds,Virginia Tech,Power 5,39,128.0,34.0,15.0,3,32.875,9.25,24.0
+983,Willie Young,North Carolina State,Power 5,49,194.0,46.0,20.0,4,34.5,10.25,14.0
+984,Sam Acho,Texas,Power 5,49,137.0,32.5,21.0,8,33.5,9.75,24.0
+997,Allen Bailey,Miami (FL),Power 5,50,107.0,31.0,19.0,2,32.5,9.5,19.0
+1001,Christian Ballard,Iowa,Power 5,49,153.0,21.5,12.0,2,33.0,10.125,3.0
+1004,Jeremy Beal,Oklahoma,Power 5,54,224.0,58.5,29.0,10,33.125,9.875,0.0
+1012,Da'Quan Bowers,Clemson,Power 5,38,150.0,44.5,19.5,1,33.125,10.25,7.0
+1043,Adrian Clayborn,Iowa,Power 5,50,192.0,37.5,19.0,7,32.5,9.75,16.0
+1066,Ricky Elmore,Arizona,Power 5,51,128.0,33.5,25.5,3,31.75,9.125,0.0
+1105,Cameron Heyward,Ohio State,Power 5,52,163.0,37.5,15.5,2,34.25,10.125,27.0
+1115,Justin Houston,Georgia,Power 5,36,125.0,38.0,20.0,2,34.5,10.875,48.0
+1139,Cameron Jordan,California,Power 5,50,175.0,34.0,16.5,4,35.0,11.125,42.0
+1146,Ryan Kerrigan,Purdue,Power 5,48,210.0,57.0,33.5,14,33.375,9.5,41.0
+1171,Cliff Matthews,South Carolina,Power 5,51,149.0,26.0,15.5,7,34.0,9.75,3.0
+1178,Pernell McPhee,Mississippi State,Power 5,25,91.0,22.0,7.0,2,34.375,9.0,17.0
+1180,Von Miller,Texas A&M,Power 5,47,181.0,50.5,33.0,10,33.5,9.25,64.0
+1198,Cheta Ozougwu,Rice,Group of 5,46,198.0,25.0,11.0,4,31.0,9.375,0.0
+1214,Robert Quinn,North Carolina,Power 5,25,86.0,25.5,13.0,8,34.0,10.125,41.0
+1216,Brooks Reed,Arizona,Power 5,45,114.0,25.0,17.0,5,32.25,10.0,28.0
+1217,D'Aundre Reed,Arizona,Power 5,46,83.0,11.5,6.0,2,33.5,10.25,0.0
+1226,Greg Romeus,Pittsburgh,Power 5,40,142.0,38.5,19.5,4,35.0,10.875,0.0
+1243,Jabaal Sheard,Pittsburgh,Power 5,45,142.0,35.5,19.5,5,33.5,10.0,28.0
+1252,Aldon Smith,Missouri,Power 5,23,79.0,23.0,14.5,1,35.375,9.75,29.0
+1287,J.J. Watt,Wisconsin,Power 5,16,106.0,36.5,11.5,3,34.0,11.125,90.0
+1291,Markus White,Florida State,Power 5,40,131.0,28.5,11.0,3,33.375,10.0,0.0
+1317,Frank Alexander,Oklahoma,Power 5,48,142.0,44.0,20.5,6,35.0,9.75,6.0
+1333,Jake Bequette,Arkansas,Power 5,48,126.0,31.0,23.5,8,32.0,9.25,0.0
+1345,Andre Branch,Clemson,Power 5,48,179.0,34.0,17.5,1,34.0,9.0,16.0
+1369,Quinton Coples,North Carolina,Power 5,51,144.0,40.5,24.0,5,33.25,10.25,18.0
+1374,Jack Crawford,Penn State,Power 5,36,85.0,26.5,14.0,1,33.75,10.25,9.0
+1375,Tyrone Crawford,Boise State,Group of 5,25,76.0,27.0,13.5,4,33.75,9.5,21.0
+1377,Jared Crick,Nebraska,Power 5,40,167.0,29.5,20.0,1,32.0,10.125,30.0
+1381,Vinny Curry,Marshall,Group of 5,45,239.0,49.0,26.5,10,32.75,9.25,8.0
+1421,Trevor Guyton,California,Power 5,43,91.0,25.0,11.0,2,33.0,10.25,0.0
+1448,Melvin Ingram,South Carolina,Power 5,50,111.0,30.5,21.5,1,31.5,9.625,22.0
+1449,Bruce Irvin,West Virginia,Power 5,26,61.0,29.0,22.5,5,33.375,9.625,30.0
+1460,Cam Johnson,Virginia,Power 5,42,130.0,32.5,12.5,4,33.5,9.0,5.0
+1468,Chandler Jones,Syracuse,Power 5,32,147.0,27.0,10.0,5,35.5,10.375,41.0
+1485,Ronnell Lewis,Oklahoma,Power 5,34,118.0,20.5,10.0,3,32.5,9.25,1.0
+1501,Jonathan Massaquoi,Troy,Group of 5,48,152.0,50.5,21.5,4,33.375,10.125,6.0
+1515,Whitney Mercilus,Illinois,Power 5,37,81.0,29.0,18.0,11,33.875,9.25,38.0
+1540,Nick Perry,USC,Power 5,37,103.0,29.5,21.5,5,33.0,9.5,16.0
+1585,Scott Solomon,Rice,Group of 5,47,207.0,43.5,24.0,4,31.625,9.5,2.0
+1611,Courtney Upshaw,Alabama,Power 5,53,141.0,36.5,17.5,6,32.0,9.0,29.0
+1612,Olivier Vernon,Miami (FL),Power 5,30,81.0,20.5,9.0,1,33.0,10.125,37.0
+1627,Billy Winn,Boise State,Group of 5,53,133.0,36.5,16.0,3,32.5,9.0,16.0
+1646,Ziggy Ansah,BYU,Group of 5,31,72.0,13.0,4.5,1,35.125,10.25,39.0
+1661,David Bass,Missouri Western State,FCS,44,182.0,50.0,29.5,10,33.5,10.5,10.0
+1679,Armonty Bryant,East Central (OK),FCS,38,156.0,57.5,32.5,10,35.75,9.75,5.0
+1680,Michael Buchanan,Illinois,Power 5,46,161.0,26.0,14.0,2,34.0,9.875,2.0
+1685,Tank Carradine,Florida State,Power 5,25,118.0,21.0,16.5,1,34.75,10.25,7.0
+1703,Lavar Edwards,LSU,Power 5,52,96.0,20.0,10.5,2,34.5,9.875,1.0
+1725,William Gholston,Michigan State,Power 5,36,142.0,30.0,10.0,2,34.0,10.375,22.0
+1731,Malliciah Goodman,Clemson,Power 5,54,127.0,23.0,12.0,8,36.375,11.0,5.0
+1759,Margus Hunt,SMU,Group of 5,53,112.0,28.0,16.5,2,33.75,10.0,7.0
+1769,Brandon Jenkins,Florida State,Power 5,40,119.0,37.5,22.5,2,33.25,9.25,0.0
+1784,Datone Jones,UCLA,Power 5,51,148.0,36.5,12.5,3,32.75,10.0,11.0
+1787,Dion Jordan,Oregon,Power 5,45,121.0,29.0,14.5,4,33.875,10.0,4.0
+1796,Joe Kruger,Utah,Power 5,37,69.0,14.0,9.0,3,34.375,10.0,0.0
+1801,Corey Lemonier,Auburn,Power 5,39,98.0,24.0,17.0,7,34.5,10.125,4.0
+1817,Stansly Maponga,TCU,Power 5,36,113.0,23.0,15.5,8,32.5,9.25,2.0
+1837,Barkevious Mingo,LSU,Power 5,40,119.0,29.0,15.0,4,33.75,9.625,16.0
+1840,Sam Montgomery,LSU,Power 5,31,104.0,32.5,19.0,3,33.875,9.25,0.0
+1842,Damontre Moore,Texas A&M,Power 5,38,197.0,45.0,26.5,8,34.75,10.25,5.0
+1848,Alex Okafor,Texas,Power 5,52,150.0,34.0,23.0,7,33.875,9.625,20.0
+1891,Quanterus Smith,Western Kentucky,Group of 5,46,135.0,41.0,24.0,5,33.25,10.375,1.0
+1911,Devin Taylor,South Carolina,Power 5,52,161.0,35.5,18.5,2,36.0,10.375,13.0
+1934,Cornelius Washington,Georgia,Power 5,51,76.0,17.0,10.5,0,34.0,9.5,5.0
+1940,Bjoern Werner,Florida State,Power 5,41,99.0,35.0,23.5,3,33.25,9.625,10.0
+1955,Tourek Williams,Florida International,Group of 5,49,150.0,45.0,18.0,2,32.5,9.5,5.0
+1978,Jeremiah Attaochu,Georgia Tech,Power 5,49,196.0,43.5,31.5,4,33.0,9.875,9.0
+2019,Will Clarke,West Virginia,Power 5,37,110.0,28.5,9.5,1,34.625,9.875,6.0
+2021,Jadeveon Clowney,South Carolina,Power 5,36,129.0,47.0,24.0,9,34.5,10.0,42.0
+2031,Scott Crichton,Oregon State,Power 5,38,165.0,51.0,23.5,10,32.75,10.125,2.0
+2044,Kony Ealy,Missouri,Power 5,39,96.0,28.0,13.5,6,34.25,9.5,13.0
+2051,I.K. Enemkpali,Louisiana Tech,Group of 5,48,148.0,32.0,17.5,2,33.125,9.75,1.0
+2064,Dee Ford,Auburn,Power 5,52,93.0,27.5,20.5,3,32.875,10.25,22.0
+2090,Taylor Hart,Oregon,Power 5,52,173.0,22.0,16.0,5,32.75,10.125,1.0
+2142,Demarcus Lawrence,Boise State,Group of 5,23,120.0,34.0,20.0,7,33.75,11.0,35.0
+2158,Aaron Lynch,South Florida,Group of 5,24,62.0,19.0,10.5,1,34.0,10.25,13.0
+2161,Khalil Mack,Buffalo,Group of 5,48,327.0,74.5,28.5,16,33.25,10.25,66.0
+2165,Cassius Marsh,UCLA,Power 5,51,149.0,22.5,15.0,2,32.75,9.5,11.0
+2166,Kareem Martin,North Carolina,Power 5,49,178.0,45.5,19.5,4,35.0,10.0,13.0
+2185,Zach Moore,Concordia (MN),FCS,43,125.0,42.0,33.0,4,33.75,9.625,3.0
+2192,Trent Murphy,Stanford,Power 5,43,160.0,52.5,32.5,3,33.875,11.125,19.0
+2198,Kyle Van Noy,BYU,Power 5,52,226.0,61.5,25.0,11,31.625,9.625,16.0
+2200,Jeoffrey Pagan,Alabama,Power 5,32,60.0,7.5,3.5,1,33.0,9.625,1.0
+2207,Ronald Powell,Florida,Power 5,35,79.0,18.5,11.0,1,32.5,9.375,1.0
+2230,Michael Sam,Missouri,Power 5,52,110.0,31.5,17.0,5,33.375,9.375,0.0
+2244,Chris Smith,Arkansas,Power 5,43,122.0,30.5,21.5,2,31.375,9.25,7.0
+2246,Marcus Smith,Louisville,Power 5,36,82.0,32.5,25.5,10,34.0,10.0,4.0
+2251,Tyler Starr,South Dakota,FCS,47,245.0,52.5,23.0,4,32.5,9.5,0.0
+2255,Ed Stinson,Alabama,Power 5,49,104.0,15.5,5.5,1,33.75,9.375,5.0
+2277,Brent Urban,Virginia,Power 5,33,75.0,16.0,3.0,2,34.25,9.75,14.0
+2310,Henry Anderson,Stanford,Power 5,47,142.0,31.5,17.0,1,33.5,9.75,18.0
+2313,Arik Armstead,Oregon,Power 5,35,87.0,10.5,4.0,1,33.0,10.5,22.0
+2318,Vic Beasley,Clemson,Power 5,47,89.0,52.0,33.0,7,32.5,9.375,34.0
+2346,Anthony Chickillo,Miami (FL),Power 5,50,171.0,25.0,15.5,2,33.5,10.125,10.0
+2349,Frank Clark,Michigan,Power 5,45,115.0,35.5,11.5,1,34.375,10.125,32.0
+2393,B.J. Dubose,Louisville,Power 5,28,73.0,13.0,6.0,0,33.0,9.75,0.0
+2394,Alvin Dupree,Kentucky,Power 5,47,247.0,37.0,23.5,4,32.625,9.75,28.0
+2398,Kyle Emanuel,North Dakota State,FCS,56,320.0,53.0,21.0,8,31.0,9.375,17.0
+2408,Trey Flowers,Arkansas,Power 5,49,190.0,47.5,18.0,4,34.25,10.0,32.0
+2409,Dante Fowler,Florida,Power 5,36,140.0,33.0,14.5,5,33.75,9.5,22.0
+2420,Markus Golden,Missouri,Power 5,39,143.0,33.0,16.5,5,31.125,10.5,22.0
+2431,Randy Gregory,Nebraska,Power 5,24,119.0,25.5,16.5,2,34.0,10.0,5.0
+2435,Obum Gwacham,Oregon State,Power 5,41,36.0,5.5,4.0,1,34.375,10.0,1.0
+2443,Eli Harold,Virginia,Power 5,36,141.0,36.5,17.5,4,33.0,9.375,12.0
+2463,Danielle Hunter,LSU,Power 5,38,142.0,21.0,4.5,2,34.25,10.5,45.0
+2464,Martin Ifedi,Memphis,Group of 5,45,140.0,36.0,20.5,4,33.875,10.0,0.0
+2480,Mario Edwards Jr.,Florida State,Power 5,35,95.0,23.0,8.0,3,33.25,10.875,13.0
+2482,Hau'oli Kikaha,Washington,Power 5,43,206.0,51.0,35.5,5,32.5,9.625,5.0
+2526,Owamagbe Odighizuwa,UCLA,Power 5,51,136.0,24.5,12.5,0,33.75,11.0,1.0
+2528,Nate Orchard,Utah,Power 5,24,133.0,29.5,21.5,6,33.75,10.125,8.0
+2549,Shane Ray,Missouri,Power 5,40,120.0,34.0,19.0,5,33.125,9.0,12.0
+2561,Ryan Russell,Purdue,Power 5,50,149.0,25.0,10.0,4,33.375,10.25,4.0
+2581,Preston Smith,Mississippi State,Power 5,47,134.0,27.0,16.0,5,34.0,10.625,35.0
+2583,Za'Darius Smith,Kentucky,Power 5,24,120.0,14.5,11.0,0,32.625,10.0,26.0
+2598,Max Valles,Virginia,Power 5,20,78.0,18.0,13.0,4,32.625,9.375,0.0
+2645,Ronald Blair,Appalachian State,Group of 5,25,114.0,32.0,13.5,1,34.0,10.25,6.0
+2651,Joey Bosa,Ohio State,Power 5,38,148.0,50.5,26.0,5,33.375,10.25,43.0
+2671,Shilique Calhoun,Michigan State,Power 5,54,131.0,44.0,27.0,4,34.25,9.875,5.0
+2692,Kamalei Correa,Boise State,Group of 5,37,110.0,31.5,20.0,5,31.625,9.375,12.0
+2707,Kevin Dodd,Clemson,Power 5,35,82.0,26.0,12.0,1,34.0,10.0,2.0
+2721,Travis Feeney,Washington,Power 5,52,247.0,33.0,15.5,5,33.375,9.5,0.0
+2723,Leonard Floyd,Georgia,Power 5,38,184.0,28.5,17.0,5,33.125,10.125,40.0
+2772,Jordan Jenkins,Georgia,Power 5,52,205.0,40.0,19.0,6,34.25,11.25,31.0
+2784,Matt Judon,Grand Valley State,FCS,49,150.0,28.5,20.5,5,33.875,9.5,37.0
+2788,Bronson Kaufusi,BYU,Power 5,50,171.0,44.0,26.5,5,34.5,9.75,2.0
+2803,Shaq Lawson,Clemson,Power 5,41,125.0,46.5,20.0,2,32.75,10.0,18.0
+2828,Alex McCalister,Florida,Power 5,23,52,18.5,12.5,2.0,36,9.375,0.0
+2843,Carl Nassib,Penn State,Power 5,32,65.0,25.0,17.5,8,34.0,10.375,19.0
+2847,Yannick Ngakoue,Maryland,Power 5,30,84.0,32.5,21.5,2,32.5,9.5,39.0
+2848,Dadi Nicolas,Virginia Tech,Power 5,47,166.0,36.0,17.5,3,34.75,10.375,1.0
+2857,Emmanuel Ogbah,Oklahoma State,Power 5,39,133.0,40.5,28.0,4,35.5,10.0,28.0
+2906,Noah Spence,East. Kentucky,Power 5,26,62.0,15.0,8.5,1,33.0,10.75,5.0
+2914,Charles Tapper,Oklahoma,Power 5,44,137.0,26.5,15.5,5,34.375,11.0,0.0
+2970,Derek Barnett,Tennessee,Power 5,39,197.0,52.0,33.0,3,32.125,10.0,24.0
+2971,Tarell Basham,Ohio,Group of 5,51,157.0,40.0,28.5,6,34.25,10.25,14.0
+2995,Josh Carraway,TCU,Power 5,43,133.0,27.5,19.0,3,34.25,9.25,0.0
+2999,Taco Charlton,Michigan,Power 5,38,94.0,27.5,18.5,1,34.25,9.75,10.0
+3053,Myles Garrett,Texas A&M,Power 5,36,145.0,48.5,32.5,7,35.25,10.25,54.0
+3065,Daeshon Hall,Texas A&M,Power 5,47,161.0,36.5,16.0,4,35.0,9.625,1.0
+3069,Charles Harris,Missouri,Power 5,37,136.0,34.5,18.0,5,32.375,9.625,12.0
+3074,Trey Hendrickson,Florida Atlantic,Group of 5,40,127.0,41.5,29.5,8,32.0,9.875,24.0
+3112,Deatrich Wise Jr.,Arkansas,Power 5,47,112.0,23.0,16.5,4,35.625,10.5,24.0
+3122,Tanoh Kpassagnon,Villanova,FCS,50,147.0,32.5,19.0,6,35.625,10.625,18.0
+3129,Carl Lawson,Auburn,Power 5,31,67.0,24.0,14.0,3,31.5,10.375,11.0
+3156,Takkarist McKinley,UCLA,Power 5,33,102.0,29.0,17.0,6,34.75,9.75,16.0
+3164,Avery Moss,Youngstown State,FCS,46,99.0,27.5,20.0,3,34.5,10.375,4.0
+3166,Al-Quadin Muhammad,Miami (FL),Power 5,18,60.0,10.5,7.0,1,33.25,9.375,14.0
+3174,Ifeadi Odenigbo,Northwestern,Power 5,47,61.0,26.5,23.5,5,32.625,10.5,11.0
+3192,Haason Reddick,Temple,Group of 5,46,148.0,46.0,18.0,4,32.75,10.125,25.0
+3198,Derek Rivers,Youngstown State,FCS,51,176.0,30.0,20.5,6,32.75,9.375,4.0
+3227,Dawuane Smoot,Illinois,Power 5,41,137.0,38.5,16.5,5,33.25,9.25,14.0
+3245,Solomon Thomas,Stanford,Power 5,27,101.0,25.5,11.5,1,33.0,9.375,17.0
+3260,DeMarcus Walker,Florida State,Power 5,50,182.0,45.0,28.5,8,33.0,10.5,9.0
+3263,T.J. Watt,Wisconsin,Power 5,27,71.0,17.0,11.5,2,33.125,11.0,65.0
+3276,Jordan Willis,Kansas State,Power 5,40,114.0,40.5,26.0,7,33.5,9.875,8.0
+3284,Kemoko Turay,Rutgers,Power 5,44,103.0,20.5,15.5,1,33.375,9.625,5.0
+3295,Dorance Armstrong,Kansas,Power 5,36,142.0,34.5,15.5,6,34.75,10.0,15.0
+3296,Ade Aruna,Tulane,Group of 5,44,107.0,19.0,12.0,3,34.0,10.625,0.0
+3316,Andrew Brown,Virginia,Power 5,41,94.0,26.5,10.5,1,34.5,9.375,2.0
+3331,Lorenzo Carter,Georgia,Power 5,54,165.0,20.5,14.0,7,34.0,10.375,26.0
+3336,Bradley Chubb,North Carolina State,Power 5,49,204.0,60.0,26.0,9,34.0,9.875,31.0
+3353,Marcus Davenport,Texas-San Antonio,Group of 5,46,186.0,37.0,21.5,6,33.625,9.125,19.0
+3367,Duke Ejiofor,Wake Forest,Power 5,42,133.0,43.0,23.5,4,34.875,9.75,1.0
+3378,Kylie Fitts,Utah,Power 5,26,69.0,15.0,11.5,5,33.0,9.5,1.0
+3385,John Franklin-Myers,Stephen F. Austin,FCS,23,82.0,14.5,10.5,2,32.875,10.0,19.0
+3396,Rasheem Green,USC,Power 5,41,117.0,20.0,16.5,3,33.75,9.875,17.0
+3407,Marquis Haynes,Mississippi,Power 5,50,172.0,47.5,32.0,12,33.25,10.0,7.0
+3419,Jalyn Holmes,Ohio State,Power 5,48,84.0,14.0,5.0,3,34.0,10.0,6.0
+3420,Sam Hubbard,Ohio State,Power 5,40,116.0,29.5,17.0,3,33.125,10.0,32.0
+3434,Leon Jacobs,Wisconsin,Power 5,52,142.0,15.5,6.5,1,33.5,9.625,7.0
+3450,Peter Kalambayi,Stanford,Power 5,54,190.0,28.0,18.5,2,33.5,9.0,3.0
+3454,Arden Key,LSU,Power 5,31,130.0,26.5,21.0,4,33.5,10.0,11.0
+3459,Harold Landry,Boston Col.,Power 5,47,160.0,47.5,26.0,10,32.875,9.375,30.0
+3466,Tyquan Lewis,Ohio State,Power 5,53,112.0,36.5,23.5,5,33.75,10.375,11.0
+3468,James Looney,California,Power 5,40,133.0,21.0,8.5,2,32.0,10.5,3.0
+3501,Uchenna Nwosu,USC,Power 5,53,168.0,20.5,12.5,1,33.625,9.0,23.0
+3505,Ogbonnia Okoronkwo,Oklahoma,Power 5,46,163.0,33.5,20.0,5,33.75,9.0,10.0
+3559,Kentavius Street,North Carolina State,Power 5,51,121.0,19.5,9.5,2,32.875,10.25,10.0
+3563,Josh Sweat,Florida State,Power 5,37,138.0,29.0,14.5,1,34.625,10.25,22.0
+3568,Chad Thomas,Miami (FL),Power 5,48,103.0,26.0,10.5,2,33.5,10.25,5.0
+3618,Trevon Young,Louisville,Power 5,36,101.0,24.0,14.0,2,33.75,10.0,0.0
+3625,Josh Allen,Kentucky,Power 5,51,219.0,41.0,31.5,11,34.75,9.875,35.0
+3639,Ben Banogu,TCU,Power 5,40,151.0,49.0,22.0,7,33.625,9.0,4.0
+3651,Nick Bosa,Ohio State,Power 5,30,77.0,29.0,17.5,2,33.0,10.75,54.0
+3656,Jordan Brailford,Oklahoma State,Power 5,37,134.0,30.5,15.0,2,32.5,9.125,1.0
+3664,Austin Bryant,Clemson,Power 5,50,129.0,36.0,20.0,2,34.625,9.625,5.0
+3667,Brian Burns,Florida State,Power 5,38,124.0,39.5,24.0,7,33.875,10.0,39.0
+3687,Maxx Crosby,East. Michigan,Group of 5,37,162.0,41.0,20.0,8,32.875,9.75,51.0
+3716,Clelin Ferrell,Clemson,Power 5,45,165.0,50.0,27.0,5,34.125,10.5,21.0
+3728,Rashan Gary,Michigan,Power 5,35,136.0,24.5,10.5,1,34.125,9.625,22.0
+3739,Gerri Green,Mississippi State,Power 5,52,161.0,20.5,8.5,3,33.0,10.0,0.0
+3767,Justin Hollins,Oregon,Power 5,52,184.0,36.5,13.0,8,33.375,10.375,9.0
+3779,Joe Jackson,Miami (FL),Power 5,39,138.0,37.5,24.0,5,34.125,10.0,1.0
+3785,Jalen Jelks,Oregon,Power 5,44,156.0,29.5,15.0,2,34.625,9.625,0.0
+3790,Darryl Johnson,North Carolina A&T,FCS,45,119.0,42.0,29.0,8,33.875,10.0,4.0
+3800,Dre'Mont Jones,Ohio State,Power 5,39,115.0,22.0,9.5,1,33.75,9.625,25.0
+3833,Christian Miller,Alabama,Power 5,45,58.0,16.0,11.5,0,33.0,10.0,1.0
+3835,Shareef Miller,Penn State,Power 5,40,100.0,31.5,14.5,1,33.625,10.125,0.0
+3847,Anthony Nelson,Iowa,Power 5,39,119.0,31.0,23.0,4,34.875,9.875,12.0
+3853,Charles Omenihu,Texas,Power 5,50,117.0,30.5,17.0,4,36.0,9.375,11.0
+3860,Jachai Polite,Florida,Power 5,32,78.0,26.5,15.0,8,32.625,9.75,1.0
+3898,Sutton Smith,Northern Illinois,Group of 5,39,139.0,58.0,30.0,7,30.75,9.0,0.0
+3904,Montez Sweat,Mississippi State,Power 5,30,105.0,30.0,22.5,1,35.75,10.5,39.0
+3922,D'Andre Walker,Georgia,Power 5,54,113.0,27.5,13.5,5,33.75,10.125,0.0
+3947,Chase Winovich,Michigan,Power 5,44,184.0,44.5,18.0,3,32.75,10.0,11.0
+3953,Oshane Ximines,Old Dominion,Group of 5,50,176.0,51.5,33.0,11,33.0,9.875,8.0
+3961,Bradlee Anae,Utah,Power 5,47,135.0,41.5,30.0,6,32.125,10.125,1.0
+4026,Marlon Davidson,Auburn,Power 5,51,175.0,29.5,17.0,4,33.0,10.0,5.0
+4052,A.J. Epenesa,Iowa,Power 5,39,101.0,36.5,26.5,9,34.5,10.125,17.0
+4065,Jonathan Garvin,Miami,Power 5,37,106.0,29.0,12.5,4,34.0,9.625,3.0
+4068,Trevis Gipson,Tulsa,Group of 5,49,114.0,25.5,13.0,8,33.875,9.625,10.0
+4072,Jonathan Greenard,Florida,Power 5,37,122.0,38.0,19.0,4,34.875,9.25,29.0
+4073,Yetur Gross-Matos,Penn State,Power 5,38,111.0,37.0,19.0,2,34.875,9.75,18.0
+4094,Alex Highsmith,Charlotte,Group of 5,48,185.0,46.0,20.0,3,33.125,9.125,33.0
+4137,Khalid Kareem,Notre Dame,Power 5,42,109.0,26.0,13.0,4,34.375,10.875,2.0
+4184,Julian Okwara,Notre Dame,Power 5,45,77.0,23.0,14.5,4,34.375,10.25,5.0
+4219,Alton Robinson,Syracuse,Power 5,36,115.0,32.5,19.5,5,32.375,9.25,4.0
+4240,Jason Strowbridge,North Carolina,Power 5,44,127.0,22.0,11.5,2,32.375,10.125,1.0
+4262,Derrek Tuszka,North Dakota State,FCS,63,119.0,49.5,29.5,6,31.375,9.875,3.0
+4287,D.J. Wonnum,South Carolina,Power 5,43,137.0,29.5,14.0,1,34.125,10.5,21.0
+4290,Chase Young,Ohio State,Power 5,36,99.0,42.5,30.5,9,33.75,10.0,24.0
+4291,Jabari Zuniga,Florida,Power 5,42,118.0,34.5,18.5,1,32.875,10.375,1.0

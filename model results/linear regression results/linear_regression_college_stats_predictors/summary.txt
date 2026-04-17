@@ -1,0 +1,40 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     5year_approx_value   R-squared:                       0.158
+Model:                            OLS   Adj. R-squared:                  0.143
+Method:                 Least Squares   F-statistic:                     10.32
+Date:                Thu, 26 Mar 2026   Prob (F-statistic):           4.44e-09
+Time:                        15:56:21   Log-Likelihood:                -1126.1
+No. Observations:                 280   AIC:                             2264.
+Df Residuals:                     274   BIC:                             2286.
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const                8.2243      5.719      1.438      0.152      -3.034      19.483
+games_played        -0.2160      0.099     -2.183      0.030      -0.411      -0.021
+tackles              1.5393      1.218      1.264      0.207      -0.859       3.937
+tackles_for_loss    17.8906      5.933      3.015      0.003       6.211      29.571
+sacks              -13.1222      8.376     -1.567      0.118     -29.611       3.366
+forced_fumbles      19.0496     14.714      1.295      0.197      -9.918      48.017
+==============================================================================
+Omnibus:                       36.157   Durbin-Watson:                   2.037
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               46.506
+Skew:                           0.912   Prob(JB):                     7.97e-11
+Kurtosis:                       3.810   Cond. No.                         789.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+================================================================================
+VIF (Variance Inflation Factors)
+================================================================================
+
+         feature       VIF
+    games_played  7.992667
+         tackles 21.930235
+tackles_for_loss 36.642276
+           sacks 21.942591
+  forced_fumbles  4.875002

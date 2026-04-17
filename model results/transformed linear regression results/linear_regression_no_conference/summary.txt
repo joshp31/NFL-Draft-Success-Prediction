@@ -1,0 +1,74 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     5year_approx_value   R-squared:                       0.285
+Model:                            OLS   Adj. R-squared:                  0.227
+Method:                 Least Squares   F-statistic:                     4.905
+Date:                Fri, 27 Mar 2026   Prob (F-statistic):           1.79e-10
+Time:                        13:37:34   Log-Likelihood:                -406.76
+No. Observations:                 280   AIC:                             857.5
+Df Residuals:                     258   BIC:                             937.5
+Df Model:                          21                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const                9.7355      5.806      1.677      0.095      -1.699      21.170
+Ht                   0.0221      0.058      0.378      0.706      -0.093       0.137
+Wt                   0.0326      0.006      5.223      0.000       0.020       0.045
+40yd                -3.4989      0.644     -5.434      0.000      -4.767      -2.231
+Vertical             0.0002      0.032      0.007      0.994      -0.062       0.063
+Bench               -0.0063      0.017     -0.373      0.710      -0.040       0.027
+Broad Jump          -0.0006      0.016     -0.038      0.970      -0.032       0.031
+3Cone               -0.3586      0.424     -0.846      0.398      -1.193       0.476
+Shuttle             -0.3762      0.617     -0.610      0.543      -1.591       0.839
+games_played        -0.0056      0.008     -0.701      0.484      -0.021       0.010
+tackles              0.1536      0.101      1.516      0.131      -0.046       0.353
+tackles_for_loss     0.9334      0.491      1.902      0.058      -0.033       1.900
+sacks                0.1199      0.691      0.173      0.862      -1.241       1.481
+forced_fumbles       0.1321      1.204      0.110      0.913      -2.238       2.502
+arm_length           0.0154      0.078      0.198      0.843      -0.138       0.169
+hand_size            0.1607      0.142      1.134      0.258      -0.118       0.440
+40yd_done           -0.1758      0.302     -0.583      0.561      -0.770       0.418
+Vertical_done       -0.0347      0.397     -0.087      0.930      -0.816       0.746
+Bench_done           0.0308      0.162      0.190      0.849      -0.288       0.350
+Broad Jump_done      0.2236      0.417      0.536      0.593      -0.598       1.045
+3Cone_done           0.2205      0.519      0.425      0.671      -0.801       1.242
+Shuttle_done        -0.1173      0.512     -0.229      0.819      -1.126       0.891
+==============================================================================
+Omnibus:                        7.953   Durbin-Watson:                   1.984
+Prob(Omnibus):                  0.019   Jarque-Bera (JB):                7.644
+Skew:                          -0.358   Prob(JB):                       0.0219
+Kurtosis:                       2.623   Cond. No.                     2.77e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.77e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+================================================================================
+VIF (Variance Inflation Factors)
+================================================================================
+
+         feature         VIF
+              Ht 3350.805011
+              Wt  628.925672
+            40yd 1669.537491
+        Vertical  259.653227
+           Bench   39.897964
+      Broad Jump  790.636819
+           3Cone 2104.064744
+         Shuttle 1733.135648
+    games_played   27.525022
+         tackles   26.685790
+tackles_for_loss   40.405628
+           sacks   25.437517
+  forced_fumbles    5.357812
+      arm_length 1654.402316
+       hand_size  475.615166
+       40yd_done   20.518401
+   Vertical_done   31.660182
+      Bench_done    4.843063
+ Broad Jump_done   34.233236
+      3Cone_done   46.656433
+    Shuttle_done   45.350911

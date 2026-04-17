@@ -1,0 +1,56 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     5year_approx_value   R-squared:                       0.095
+Model:                            OLS   Adj. R-squared:                  0.054
+Method:                 Least Squares   F-statistic:                     2.326
+Date:                Fri, 27 Mar 2026   Prob (F-statistic):            0.00763
+Time:                        13:27:40   Log-Likelihood:                -439.87
+No. Observations:                 280   AIC:                             905.7
+Df Residuals:                     267   BIC:                             953.0
+Df Model:                          12                                         
+Covariance Type:            nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+const              11.9245      5.089      2.343      0.020       1.905      21.944
+40yd               -1.8043      0.655     -2.754      0.006      -3.094      -0.514
+Vertical           -0.0095      0.035     -0.275      0.784      -0.078       0.059
+Bench               0.0084      0.017      0.489      0.625      -0.025       0.042
+Broad Jump          0.0130      0.017      0.770      0.442      -0.020       0.046
+3Cone              -0.2579      0.457     -0.565      0.573      -1.157       0.641
+Shuttle            -0.2141      0.664     -0.322      0.747      -1.521       1.093
+40yd_done          -0.0847      0.321     -0.264      0.792      -0.717       0.547
+Vertical_done      -0.2173      0.432     -0.502      0.616      -1.069       0.634
+Bench_done         -0.0068      0.176     -0.039      0.969      -0.354       0.340
+Broad Jump_done     0.2943      0.449      0.656      0.512      -0.589       1.178
+3Cone_done          0.3391      0.561      0.605      0.546      -0.765       1.443
+Shuttle_done       -0.0144      0.555     -0.026      0.979      -1.106       1.078
+==============================================================================
+Omnibus:                       33.106   Durbin-Watson:                   1.995
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               17.686
+Skew:                          -0.452   Prob(JB):                     0.000144
+Kurtosis:                       2.165   Cond. No.                     8.98e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 8.98e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+================================================================================
+VIF (Variance Inflation Factors)
+================================================================================
+
+        feature         VIF
+           40yd 1034.306787
+       Vertical  252.103327
+          Bench   34.280750
+     Broad Jump  545.829432
+          3Cone 1999.748076
+        Shuttle 1573.658018
+      40yd_done   18.914818
+  Vertical_done   30.864651
+     Bench_done    4.701504
+Broad Jump_done   32.517334
+     3Cone_done   44.670935
+   Shuttle_done   43.647096

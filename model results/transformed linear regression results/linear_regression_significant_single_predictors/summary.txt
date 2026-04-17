@@ -1,0 +1,62 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     5year_approx_value   R-squared:                       0.189
+Model:                            OLS   Adj. R-squared:                  0.143
+Method:                 Least Squares   F-statistic:                     4.112
+Date:                Fri, 27 Mar 2026   Prob (F-statistic):           9.02e-07
+Time:                        16:50:27   Log-Likelihood:                -424.40
+No. Observations:                 280   AIC:                             880.8
+Df Residuals:                     264   BIC:                             939.0
+Df Model:                          15                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const               11.3667      4.964      2.290      0.023       1.594      21.140
+3Cone               -0.0930      0.440     -0.211      0.833      -0.960       0.774
+3Cone_done           0.3599      0.543      0.663      0.508      -0.709       1.429
+40yd                -2.4012      0.640     -3.753      0.000      -3.661      -1.141
+Broad Jump          -0.0027      0.016     -0.169      0.866      -0.035       0.029
+Broad Jump_done      0.1566      0.435      0.360      0.719      -0.699       1.012
+forced_fumbles      -0.4055      1.259     -0.322      0.748      -2.884       2.073
+games_played        -0.0060      0.008     -0.728      0.467      -0.022       0.010
+hand_size            0.3638      0.139      2.619      0.009       0.090       0.637
+sacks               -0.4602      0.710     -0.648      0.517      -1.858       0.937
+Shuttle             -0.2049      0.633     -0.324      0.746      -1.451       1.041
+Shuttle_done        -0.1829      0.536     -0.341      0.733      -1.239       0.873
+tackles              0.1025      0.104      0.990      0.323      -0.101       0.306
+tackles_for_loss     1.1980      0.504      2.378      0.018       0.206       2.190
+Vertical            -0.0127      0.033     -0.389      0.698      -0.077       0.052
+Vertical_done       -0.1066      0.412     -0.259      0.796      -0.918       0.705
+==============================================================================
+Omnibus:                       19.945   Durbin-Watson:                   1.946
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               13.798
+Skew:                          -0.423   Prob(JB):                      0.00101
+Kurtosis:                       2.316   Cond. No.                     9.57e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 9.57e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+================================================================================
+VIF (Variance Inflation Factors)
+================================================================================
+
+         feature         VIF
+           3Cone 2058.978367
+      3Cone_done   46.252285
+            40yd 1152.475248
+      Broad Jump  592.243106
+ Broad Jump_done   33.726375
+  forced_fumbles    5.244936
+    games_played   27.006841
+       hand_size  401.785899
+           sacks   24.088024
+         Shuttle 1587.397451
+    Shuttle_done   44.939058
+         tackles   25.169913
+tackles_for_loss   38.284506
+        Vertical  250.392818
+   Vertical_done   30.953075

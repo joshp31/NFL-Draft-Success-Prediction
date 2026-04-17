@@ -1,0 +1,5 @@
+Neural Network (MLP Regressor)
+============================================================
+Hidden Layers: (50, 25)
+R^2: 0.9938
+Adjusted R^2: 0.9932

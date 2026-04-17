@@ -1,0 +1,28 @@
+Decision Tree Model - Log-Transformed 5-Year AV
+============================================================
+R^2: 0.3811
+Adjusted R^2: 0.3308
+
+Feature Importances:
+         Feature  Importance
+            40yd    0.260290
+tackles_for_loss    0.232159
+              Wt    0.226778
+         Shuttle    0.122713
+         tackles    0.071754
+    games_played    0.050619
+  forced_fumbles    0.035688
+              Ht    0.000000
+       40yd_done    0.000000
+        Vertical    0.000000
+   Vertical_done    0.000000
+      Bench_done    0.000000
+           Bench    0.000000
+      3Cone_done    0.000000
+           3Cone    0.000000
+ Broad Jump_done    0.000000
+      Broad Jump    0.000000
+    Shuttle_done    0.000000
+           sacks    0.000000
+      arm_length    0.000000
+       hand_size    0.000000

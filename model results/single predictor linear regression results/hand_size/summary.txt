@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     5year_approx_value   R-squared:                       0.030
+Model:                            OLS   Adj. R-squared:                  0.027
+Method:                 Least Squares   F-statistic:                     8.736
+Date:                Fri, 27 Mar 2026   Prob (F-statistic):            0.00339
+Time:                        15:43:03   Log-Likelihood:                -1145.9
+No. Observations:                 280   AIC:                             2296.
+Df Residuals:                     278   BIC:                             2303.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        -36.5770     17.248     -2.121      0.035     -70.531      -2.623
+hand_size      5.1435      1.740      2.956      0.003       1.718       8.569
+==============================================================================
+Omnibus:                       69.042   Durbin-Watson:                   1.964
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              129.221
+Skew:                           1.299   Prob(JB):                     8.71e-29
+Kurtosis:                       5.079   Cond. No.                         199.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

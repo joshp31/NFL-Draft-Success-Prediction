@@ -1,0 +1,6 @@
+10-Fold Cross-Validation Results - Significant Predictors
+==================================================
+R2 Mean: 0.1380
+R2 Std: 0.2943
+RMSE Mean: 12.5707
+RMSE Std: 1.5482

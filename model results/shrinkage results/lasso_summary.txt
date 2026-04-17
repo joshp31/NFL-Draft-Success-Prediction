@@ -1,0 +1,28 @@
+Lasso Regression (Log-Transformed Response)
+============================================================
+R^2: 0.2286
+Adjusted R^2: 0.1658
+
+Coefficients:
+         Feature  Coefficient
+            40yd    -0.322653
+tackles_for_loss     0.252084
+              Wt     0.229434
+         tackles     0.051032
+       hand_size     0.025486
+              Ht     0.014190
+      3Cone_done     0.009733
+ Broad Jump_done     0.007167
+       40yd_done     0.000000
+        Vertical     0.000000
+      Broad Jump     0.000000
+   Vertical_done     0.000000
+           Bench     0.000000
+         Shuttle    -0.000000
+           3Cone    -0.000000
+      Bench_done     0.000000
+    games_played    -0.000000
+    Shuttle_done     0.000000
+           sacks     0.000000
+  forced_fumbles     0.000000
+      arm_length     0.000000

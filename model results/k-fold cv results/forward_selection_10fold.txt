@@ -1,0 +1,6 @@
+10-Fold Cross-Validation Results - Forward Selection
+==================================================
+R2 Mean: 0.0849
+R2 Std: 0.2601
+RMSE Mean: 1.1148
+RMSE Std: 0.1372

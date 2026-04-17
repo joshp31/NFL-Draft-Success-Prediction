@@ -1,0 +1,28 @@
+Ridge Regression (Log-Transformed Response)
+============================================================
+R^2: 0.2853
+Adjusted R^2: 0.2271
+
+Coefficients:
+         Feature  Coefficient
+            40yd    -0.477411
+              Wt     0.456944
+tackles_for_loss     0.257544
+         tackles     0.138903
+      3Cone_done     0.092660
+ Broad Jump_done     0.083851
+       hand_size     0.080260
+           3Cone    -0.072323
+         Shuttle    -0.052972
+    games_played    -0.048925
+    Shuttle_done    -0.045325
+       40yd_done    -0.042764
+              Ht     0.031138
+           Bench    -0.025602
+           sacks     0.022166
+      arm_length     0.017265
+      Bench_done     0.013017
+   Vertical_done    -0.011372
+  forced_fumbles     0.009809
+      Broad Jump    -0.002791
+        Vertical     0.001192

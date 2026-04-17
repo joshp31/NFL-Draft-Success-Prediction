@@ -1,0 +1,38 @@
+Forward Selection Results
+==================================================
+Selected Variables:
+tackles_for_loss, 40yd, Wt, tackles, hand_size, Broad Jump_done, 3Cone
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     5year_approx_value   R-squared:                       0.279
+Model:                            OLS   Adj. R-squared:                  0.260
+Method:                 Least Squares   F-statistic:                     15.00
+Date:                Fri, 27 Mar 2026   Prob (F-statistic):           1.50e-16
+Time:                        19:06:58   Log-Likelihood:                -408.08
+No. Observations:                 280   AIC:                             832.2
+Df Residuals:                     272   BIC:                             861.2
+Df Model:                           7                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const               10.3519      3.037      3.408      0.001       4.372      16.332
+tackles_for_loss     1.0976      0.301      3.644      0.000       0.505       1.691
+40yd                -3.4967      0.543     -6.438      0.000      -4.566      -2.427
+Wt                   0.0324      0.005      6.059      0.000       0.022       0.043
+tackles              0.1356      0.093      1.456      0.147      -0.048       0.319
+hand_size            0.2013      0.129      1.555      0.121      -0.053       0.456
+Broad Jump_done      0.2701      0.171      1.581      0.115      -0.066       0.607
+3Cone               -0.5029      0.340     -1.478      0.141      -1.173       0.167
+==============================================================================
+Omnibus:                        8.098   Durbin-Watson:                   1.970
+Prob(Omnibus):                  0.017   Jarque-Bera (JB):                7.794
+Skew:                          -0.362   Prob(JB):                       0.0203
+Kurtosis:                       2.622   Cond. No.                     1.28e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.28e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.

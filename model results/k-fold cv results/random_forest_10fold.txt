@@ -1,0 +1,16 @@
+Random Forest with 10-Fold CV
+======================================================================
+R2 Mean: 0.0451
+R2 Std: 0.2578
+RMSE Mean: 13.4009
+RMSE Std: 2.0174
+
+Feature Importances:
+         Feature  Importance
+tackles_for_loss    0.264068
+         tackles    0.210174
+            40yd    0.181541
+           3Cone    0.128929
+       hand_size    0.116042
+              Wt    0.097746
+ Broad Jump_done    0.001499
