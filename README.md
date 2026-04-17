@@ -52,7 +52,7 @@ Tools Used
 - os
 
 File Structure
-'''
+```
 NFL-EDGE-Draft-Success-Prediction/
 |
 |── data/
@@ -73,4 +73,4 @@ NFL-EDGE-Draft-Success-Prediction/
 |── .gitignore
 |── README.md
 └── requirements.txt
-'''
+```
